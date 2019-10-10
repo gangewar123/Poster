@@ -121,6 +121,6 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 12,
-    color:"#ad3122"
+    color: '#ad3122',
   },
 });

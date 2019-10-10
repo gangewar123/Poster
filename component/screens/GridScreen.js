@@ -22,7 +22,7 @@ export default class GridScreen extends Component {
   }
   static navigationOptions = {
     headerTitle: 'Chat',
-     headerStyle: {
+    headerStyle: {
       backgroundColor: '#f4511e',
     },
     headerTintColor: '#fff',

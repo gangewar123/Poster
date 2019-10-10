@@ -59,10 +59,9 @@ export default class LoginScreen extends Component {
         </View>
 
         <View style={styles.myform}>
-        {this.state.errorMessage &&
-          <Text style={{ color: 'red' }}>
-            {this.state.errorMessage}
-          </Text>}
+          {this.state.errorMessage && (
+            <Text style={{color: 'red'}}>{this.state.errorMessage}</Text>
+          )}
           <View style={styles.container}>
             <TextInput
               placeholder="Email"
