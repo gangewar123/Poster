@@ -1,8 +1,4 @@
-# Poster
- React-Native firebase-firestore-infinty listview
  
- # Poster
-Simple Circular Date Picker
 # Poster
 
 This is React-Native example to connect with Firebase,Firestore and real-time data.
