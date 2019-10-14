@@ -21,8 +21,8 @@ Poster>react-native run-android
 ```
 ## Shots
 <img src="https://github.com/gangewar123/Poster/blob/master/Shots/poster.gif" width="350" title="Poster">
-<img src="https://github.com/gangewar123/Poster/blob/master/Shots/emailAuth.png" width="350" title="Email Auth">
-<img src="https://github.com/gangewar123/Poster/blob/master/Shots/fireStore.png" width="350" title="FireStore">
+<img src="https://github.com/gangewar123/Poster/blob/master/Shots/emailAuth.png" width="750" title="Email Auth">
+<img src="https://github.com/gangewar123/Poster/blob/master/Shots/fireStore.png" width="750" title="FireStore">
 
 ## Built With
 
